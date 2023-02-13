@@ -32,7 +32,7 @@ Hey, I'm Gustavo-Silva! 🤙🏼
   <img align="center" alt="Gustavo-windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
 </div>
 
-### Learning:
+### Studying:
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
