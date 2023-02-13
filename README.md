@@ -2,10 +2,6 @@ Hey, I'm Gustavo-Silva! 🤙🏼
 
 📚 Electrical Engineering and Systems Development Analysis student
 
-🛠 I use C language for micro controllers and python for other activities
-
-🌱 Studying logic daily, also deeper into python and starting in java
-
 🇧🇷 Born in Telêmaco Borba, Brazil
 
 <div align="center">  
@@ -23,7 +19,7 @@ Hey, I'm Gustavo-Silva! 🤙🏼
   <img align="center" alt="Gustavo-C" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Gustavo-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
+  
 ### Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
@@ -31,7 +27,7 @@ Hey, I'm Gustavo-Silva! 🤙🏼
   <img align="center" alt="Gustavo-github" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg">
   <img align="center" alt="Gustavo-windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
 </div>
-
+  
 ### Studying:
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
