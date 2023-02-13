@@ -9,11 +9,6 @@ Hey, I'm Gustavo-Silva! 🤙🏼
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Gss&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-### Social 
-<div style="display: inline_block"><br>
-<a href="https://www.linkedin.com/in/gustavo-santos-da-silva/" target="_blank"> <img align="center" alt="Gustavo-Linkeld" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"</a>
-</div> 
-  
 ### Main skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-C" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
